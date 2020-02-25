@@ -17,7 +17,7 @@ end
 def modulo(num1, num2)
 #  sum = (num1 / num2)
 #  remainder = sum - sum.mathfloor
-  return num2 % num1
+  return num1 % num2
 end
 
 def square_root(num)
